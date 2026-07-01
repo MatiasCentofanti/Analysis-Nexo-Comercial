@@ -1,0 +1,31 @@
+﻿id_producto,nombre,categoria,subcategoria,precio_lista,costo
+PR001,"Laptop Pro 15""",Tecnología,Notebooks,450000,265000
+PR002,"Laptop Standard 14""",Tecnología,Notebooks,280000,163000
+PR003,"Monitor 27"" 4K",Tecnología,Periféricos,180000,104000
+PR004,"Monitor 24"" FHD",Tecnología,Periféricos,95000,54000
+PR005,Teclado Mecánico,Tecnología,Periféricos,25000,14000
+PR006,Mouse Inalámbrico,Tecnología,Periféricos,12000,6500
+PR007,Auriculares BT Pro,Tecnología,Audio,35000,19000
+PR008,"Tablet 10""",Tecnología,Tablets,150000,87000
+PR009,Proyector HD 3500lm,Tecnología,AV,320000,188000
+PR010,Hub USB-C 7 en 1,Tecnología,Periféricos,18000,9500
+PR011,Silla Ergonómica,Mobiliario,Asientos,120000,68000
+PR012,Escritorio Ejecutivo,Mobiliario,Escritorios,180000,100000
+PR013,Mesa de Reunión 8p,Mobiliario,Mesas,350000,200000
+PR014,Estantería Metálica,Mobiliario,Almacenamiento,75000,42000
+PR015,Armario con Llave,Mobiliario,Almacenamiento,95000,54000
+PR016,Resma Papel A4 x5,Papelería,Papel,8500,4200
+PR017,Carpeta Archivadora,Papelería,Archivos,3200,1500
+PR018,Set Bolígrafos x20,Papelería,Escritura,2800,1300
+PR019,Agenda Ejecutiva,Papelería,Organizadores,4500,2100
+PR020,Papel Afiche x50,Papelería,Papel,6000,2900
+PR021,Impresora Láser B/N,Equipamiento,Impresión,180000,104000
+PR022,Impresora Color,Equipamiento,Impresión,250000,147000
+PR023,Escáner Documental,Equipamiento,Escaneo,120000,70000
+PR024,Cámara IP HD,Equipamiento,Seguridad,45000,25000
+PR025,Teléfono IP,Equipamiento,Comunicación,28000,15000
+PR026,Tóner Negro HP,Consumibles,Tóner,22000,11000
+PR027,Cartucho Color Epson,Consumibles,Cartuchos,8500,4000
+PR028,Resma Color A4,Consumibles,Papel,12000,5800
+PR029,Pila AA x20,Consumibles,Pilas,3500,1600
+PR030,Cable HDMI 2m,Consumibles,Cables,4500,2100

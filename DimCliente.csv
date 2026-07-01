@@ -1,0 +1,501 @@
+﻿id_cliente,nombre,segmento,ciudad,region,fecha_alta
+CL0001,Servicios Romero & Asociados,B2C,Tucumán,NOA,2019-07-29
+CL0002,Inversiones Rodríguez S.A.,B2B,Catamarca,NOA,2019-07-11
+CL0003,Estudio Sánchez del Norte,B2B,Lanús,AMBA,2021-05-09
+CL0004,Grupo Pérez Patagónica S.A.,B2B,Lanús,AMBA,2020-11-27
+CL0005,Comercial Martínez S.R.L.,B2C,La Plata,AMBA,2021-02-17
+CL0006,Grupo Díaz del Norte,B2B,Mar del Plata,AMBA,2019-09-13
+CL0007,Distribuidora Ruiz e Hijos,B2B,Villa Mercedes,Cuyo,2020-01-29
+CL0008,Distribuidora López Unida S.A.,B2C,Tucumán,NOA,2019-07-26
+CL0009,Comercial Pérez Central,B2B,Quilmes,AMBA,2020-12-28
+CL0010,Constructora Pérez del Norte,B2B,Mar del Plata,AMBA,2020-05-16
+CL0011,Estudio Romero Central,B2B,Quilmes,AMBA,2019-04-25
+CL0012,Inversiones Torres S.R.L.,B2C,Buenos Aires,AMBA,2020-03-08
+CL0013,Comercial Sánchez Andina S.R.L.,B2C,Trelew,Patagonia,2021-03-21
+CL0014,Consultora Romero del Norte,B2B,Ushuaia,Patagonia,2022-01-08
+CL0015,Metalúrgica Castro Central,B2B,Lanús,AMBA,2020-03-25
+CL0016,Constructora Rodríguez S.R.L.,B2B,San Juan,Cuyo,2019-11-10
+CL0017,Inversiones Castro e Hijos,B2B,Santiago del Estero,NOA,2021-08-16
+CL0018,Grupo Martínez del Norte,B2C,Río Cuarto,Centro,2020-06-30
+CL0019,Inversiones Pérez Andina S.R.L.,B2B,Posadas,NEA,2019-01-07
+CL0020,Consultora Ortega S.R.L.,B2C,San Luis,Cuyo,2022-07-04
+CL0021,Consultora Ruiz & Asociados,B2B,Lanús,AMBA,2022-01-09
+CL0022,Metalúrgica Morales Andina S.R.L.,B2C,San Rafael,Cuyo,2019-02-09
+CL0023,Distribuidora Romero S.A.,B2C,Mar del Plata,AMBA,2020-05-08
+CL0024,Clínica López del Norte,B2B,Neuquén,Patagonia,2019-09-15
+CL0025,Consultora Torres del Norte,B2C,Quilmes,AMBA,2022-05-27
+CL0026,Servicios Álvarez Patagónica S.A.,B2C,Rosario,Centro,2022-10-07
+CL0027,Clínica Martínez Unida S.A.,B2C,Santiago del Estero,NOA,2020-04-05
+CL0028,Servicios Romero S.A.,B2B,Buenos Aires,AMBA,2019-05-26
+CL0029,Grupo Morales S.R.L.,B2B,Tucumán,NOA,2021-11-18
+CL0030,Consultora Molina Unida S.A.,B2B,Quilmes,AMBA,2021-08-26
+CL0031,Inversiones Ruiz Patagónica S.A.,B2B,Corrientes,NEA,2021-04-21
+CL0032,Constructora Rodríguez Patagónica S.A.,B2B,Córdoba,Centro,2020-11-25
+CL0033,Servicios Medina Andina S.R.L.,B2B,Resistencia,NEA,2019-10-15
+CL0034,Constructora Díaz del Norte,B2B,Santa Fe,Centro,2019-07-20
+CL0035,Constructora Romero & Asociados,B2C,Lanús,AMBA,2021-04-12
+CL0036,Grupo Pérez Patagónica S.A.,B2C,Rosario,Centro,2019-01-05
+CL0037,Clínica Álvarez Patagónica S.A.,B2C,San Luis,Cuyo,2022-11-27
+CL0038,Clínica González Unida S.A.,B2C,San Rafael,Cuyo,2020-08-30
+CL0039,Estudio Rodríguez Central,B2B,Buenos Aires,AMBA,2019-04-28
+CL0040,Estudio Pérez S.A.,B2B,Quilmes,AMBA,2021-11-06
+CL0041,Constructora Romero Patagónica S.A.,Premium,La Plata,AMBA,2019-09-03
+CL0042,Metalúrgica Rodríguez e Hijos,B2B,San Rafael,Cuyo,2019-06-17
+CL0043,Comercial Torres Unida S.A.,B2B,Río Cuarto,Centro,2022-10-03
+CL0044,Consultora Álvarez Andina S.R.L.,B2B,Salta,NOA,2020-10-09
+CL0045,Metalúrgica Martínez S.R.L.,Premium,Mendoza,Cuyo,2022-01-06
+CL0046,Comercial López Unida S.A.,Premium,Mar del Plata,AMBA,2021-01-26
+CL0047,Distribuidora Ortega S.A.,B2C,Quilmes,AMBA,2022-09-29
+CL0048,Constructora González del Plata S.R.L.,B2C,Posadas,NEA,2019-08-25
+CL0049,Distribuidora Sánchez Central,B2B,Trelew,Patagonia,2020-02-21
+CL0050,Distribuidora Rodríguez S.R.L.,B2B,Jujuy,NOA,2022-07-23
+CL0051,Comercial González del Plata S.R.L.,Premium,Santa Fe,Centro,2019-11-27
+CL0052,Estudio García S.R.L.,B2C,Oberá,NEA,2019-06-04
+CL0053,Comercial Medina & Asociados,B2B,San Juan,Cuyo,2021-05-30
+CL0054,Grupo Ruiz Unida S.A.,B2B,Mar del Plata,AMBA,2022-10-28
+CL0055,Estudio Herrera e Hijos,B2B,Buenos Aires,AMBA,2019-11-13
+CL0056,Consultora Herrera S.A.,B2C,San Juan,Cuyo,2020-01-03
+CL0057,Inversiones Romero del Plata S.R.L.,B2C,Jujuy,NOA,2019-11-23
+CL0058,Grupo Molina Unida S.A.,B2B,Resistencia,NEA,2020-02-13
+CL0059,Servicios Romero S.A.,B2B,Formosa,NEA,2022-09-13
+CL0060,Constructora Torres Central,B2B,Mar del Plata,AMBA,2022-08-06
+CL0061,Grupo Martínez del Plata S.R.L.,B2B,Río Cuarto,Centro,2020-01-01
+CL0062,Metalúrgica Herrera Central,Premium,Santa Fe,Centro,2020-10-04
+CL0063,Metalúrgica Sánchez del Plata S.R.L.,Premium,Río Cuarto,Centro,2019-04-01
+CL0064,Estudio Sánchez Central,B2B,Tucumán,NOA,2021-06-02
+CL0065,Constructora Álvarez del Norte,B2B,Mar del Plata,AMBA,2020-09-25
+CL0066,Distribuidora Medina & Asociados,B2B,Jujuy,NOA,2020-01-28
+CL0067,Consultora Álvarez Patagónica S.A.,B2B,Paraná,Centro,2022-01-27
+CL0068,Inversiones Morales Andina S.R.L.,B2B,Comodoro Rivadavia,Patagonia,2021-06-23
+CL0069,Consultora López del Plata S.R.L.,B2B,Rosario,Centro,2021-11-21
+CL0070,Servicios Álvarez Unida S.A.,B2B,Catamarca,NOA,2020-02-12
+CL0071,Clínica López Andina S.R.L.,B2B,Buenos Aires,AMBA,2021-04-28
+CL0072,Inversiones Molina Patagónica S.A.,B2B,Trelew,Patagonia,2020-05-14
+CL0073,Constructora Herrera Unida S.A.,B2C,Buenos Aires,AMBA,2019-12-27
+CL0074,Estudio Romero S.R.L.,B2B,Oberá,NEA,2021-07-23
+CL0075,Estudio Morales Andina S.R.L.,B2B,Quilmes,AMBA,2022-06-08
+CL0076,Estudio Díaz & Asociados,B2B,Oberá,NEA,2021-08-30
+CL0077,Distribuidora Ortega Andina S.R.L.,B2C,Rosario,Centro,2022-07-07
+CL0078,Distribuidora Romero del Plata S.R.L.,Premium,Quilmes,AMBA,2020-11-18
+CL0079,Consultora Romero Patagónica S.A.,Premium,Lanús,AMBA,2022-11-22
+CL0080,Inversiones Morales del Norte,Premium,La Plata,AMBA,2021-08-12
+CL0081,Inversiones García e Hijos,B2C,Rosario,Centro,2021-02-18
+CL0082,Inversiones Herrera del Norte,B2B,Santa Fe,Centro,2022-01-23
+CL0083,Distribuidora Herrera Andina S.R.L.,B2B,Corrientes,NEA,2019-03-01
+CL0084,Clínica González e Hijos,B2B,Quilmes,AMBA,2021-12-29
+CL0085,Grupo López Patagónica S.A.,B2B,Quilmes,AMBA,2019-10-05
+CL0086,Inversiones Morales Unida S.A.,Premium,Bariloche,Patagonia,2021-07-20
+CL0087,Inversiones Torres S.R.L.,B2B,Quilmes,AMBA,2021-08-21
+CL0088,Comercial Romero S.R.L.,Premium,Lanús,AMBA,2022-08-27
+CL0089,Servicios García e Hijos,B2C,Buenos Aires,AMBA,2019-11-09
+CL0090,Metalúrgica Sánchez Andina S.R.L.,B2B,Quilmes,AMBA,2022-12-03
+CL0091,Metalúrgica Martínez & Asociados,Premium,Mar del Plata,AMBA,2020-09-29
+CL0092,Metalúrgica Castro Patagónica S.A.,B2C,Buenos Aires,AMBA,2020-02-11
+CL0093,Distribuidora Martínez e Hijos,Premium,La Plata,AMBA,2019-03-26
+CL0094,Constructora Ortega Central,B2B,Quilmes,AMBA,2019-01-26
+CL0095,Comercial Díaz & Asociados,B2B,Ushuaia,Patagonia,2021-06-10
+CL0096,Distribuidora Medina Andina S.R.L.,B2C,Lanús,AMBA,2021-08-10
+CL0097,Servicios López del Plata S.R.L.,B2B,Río Cuarto,Centro,2021-07-12
+CL0098,Inversiones Morales S.A.,B2B,Quilmes,AMBA,2021-10-09
+CL0099,Comercial Torres Central,B2B,Bariloche,Patagonia,2020-07-26
+CL0100,Estudio Sánchez S.R.L.,B2B,Comodoro Rivadavia,Patagonia,2020-05-09
+CL0101,Servicios Molina Andina S.R.L.,B2B,Santiago del Estero,NOA,2021-07-06
+CL0102,Inversiones Romero del Plata S.R.L.,B2B,Resistencia,NEA,2022-09-21
+CL0103,Comercial Herrera del Norte,B2B,Paraná,Centro,2020-11-08
+CL0104,Distribuidora Romero S.R.L.,B2B,Quilmes,AMBA,2020-01-30
+CL0105,Consultora Sánchez Unida S.A.,B2C,Lanús,AMBA,2021-09-18
+CL0106,Estudio Álvarez S.R.L.,B2C,Lanús,AMBA,2020-02-02
+CL0107,Grupo Medina & Asociados,Premium,Mar del Plata,AMBA,2020-07-15
+CL0108,Consultora Molina S.R.L.,B2B,Buenos Aires,AMBA,2019-01-26
+CL0109,Comercial Pérez S.A.,B2B,Paraná,Centro,2020-06-01
+CL0110,Constructora Castro Andina S.R.L.,B2B,Villa Mercedes,Cuyo,2019-06-01
+CL0111,Metalúrgica Álvarez S.R.L.,B2B,Córdoba,Centro,2020-05-23
+CL0112,Metalúrgica Romero del Norte,B2B,Quilmes,AMBA,2021-02-18
+CL0113,Metalúrgica Herrera del Plata S.R.L.,B2B,Paraná,Centro,2022-03-10
+CL0114,Constructora Sánchez Unida S.A.,B2C,Catamarca,NOA,2020-06-25
+CL0115,Estudio López & Asociados,B2B,Salta,NOA,2019-01-06
+CL0116,Grupo Romero del Plata S.R.L.,B2B,Río Cuarto,Centro,2022-12-18
+CL0117,Servicios Torres e Hijos,Premium,Quilmes,AMBA,2022-09-16
+CL0118,Estudio Romero & Asociados,B2B,Corrientes,NEA,2020-06-28
+CL0119,Distribuidora Álvarez Andina S.R.L.,Premium,Neuquén,Patagonia,2019-09-12
+CL0120,Distribuidora Ortega del Norte,B2B,Santa Fe,Centro,2021-10-08
+CL0121,Inversiones Morales e Hijos,Premium,Río Cuarto,Centro,2020-05-27
+CL0122,Metalúrgica García del Plata S.R.L.,B2C,La Plata,AMBA,2022-03-26
+CL0123,Clínica Torres & Asociados,B2B,La Plata,AMBA,2022-04-13
+CL0124,Clínica Ruiz Patagónica S.A.,B2C,Paraná,Centro,2020-11-13
+CL0125,Comercial Herrera Andina S.R.L.,B2C,Buenos Aires,AMBA,2020-08-13
+CL0126,Estudio Rodríguez Andina S.R.L.,B2C,Santiago del Estero,NOA,2019-06-30
+CL0127,Inversiones Ortega S.A.,Premium,Mar del Plata,AMBA,2022-09-08
+CL0128,Servicios Ortega Central,B2B,Ushuaia,Patagonia,2022-06-29
+CL0129,Servicios Torres del Norte,B2C,Formosa,NEA,2019-09-26
+CL0130,Clínica Martínez S.A.,B2C,Villa Mercedes,Cuyo,2022-07-14
+CL0131,Distribuidora Medina S.A.,B2C,Rosario,Centro,2022-02-05
+CL0132,Constructora Díaz S.R.L.,B2C,Rosario,Centro,2022-08-19
+CL0133,Distribuidora Ortega del Plata S.R.L.,B2C,Ushuaia,Patagonia,2021-04-30
+CL0134,Estudio González Patagónica S.A.,B2B,Ushuaia,Patagonia,2020-01-26
+CL0135,Consultora López del Plata S.R.L.,B2C,San Rafael,Cuyo,2021-04-29
+CL0136,Grupo Álvarez del Plata S.R.L.,B2B,Lanús,AMBA,2022-04-17
+CL0137,Clínica Medina Andina S.R.L.,B2C,Paraná,Centro,2020-12-07
+CL0138,Comercial Sánchez Unida S.A.,B2B,Lanús,AMBA,2022-03-17
+CL0139,Clínica Castro Patagónica S.A.,Premium,Quilmes,AMBA,2022-09-21
+CL0140,Grupo González del Norte,B2B,Corrientes,NEA,2022-04-23
+CL0141,Clínica Martínez del Norte,B2C,Buenos Aires,AMBA,2021-07-24
+CL0142,Consultora López Andina S.R.L.,B2B,La Plata,AMBA,2020-06-26
+CL0143,Comercial Medina Patagónica S.A.,B2B,Quilmes,AMBA,2020-10-10
+CL0144,Grupo López Unida S.A.,B2C,Santiago del Estero,NOA,2022-07-16
+CL0145,Constructora Herrera S.R.L.,B2C,Jujuy,NOA,2022-07-21
+CL0146,Distribuidora García S.A.,B2B,Tucumán,NOA,2020-10-26
+CL0147,Inversiones González Unida S.A.,B2B,Posadas,NEA,2021-12-23
+CL0148,Constructora Castro e Hijos,B2B,Rosario,Centro,2022-10-31
+CL0149,Clínica Torres Andina S.R.L.,Premium,Lanús,AMBA,2020-06-06
+CL0150,Estudio Pérez S.R.L.,B2C,Santiago del Estero,NOA,2021-06-23
+CL0151,Inversiones Torres Andina S.R.L.,B2B,San Rafael,Cuyo,2020-09-10
+CL0152,Constructora Romero Patagónica S.A.,B2C,Quilmes,AMBA,2022-03-17
+CL0153,Distribuidora García Patagónica S.A.,B2C,Mar del Plata,AMBA,2020-07-16
+CL0154,Clínica Álvarez Unida S.A.,B2C,Buenos Aires,AMBA,2022-05-28
+CL0155,Metalúrgica Torres & Asociados,B2C,Corrientes,NEA,2022-07-10
+CL0156,Clínica Rodríguez e Hijos,B2B,Buenos Aires,AMBA,2021-01-17
+CL0157,Comercial Herrera & Asociados,B2C,Tucumán,NOA,2020-02-16
+CL0158,Comercial Ortega del Norte,B2C,Lanús,AMBA,2020-07-12
+CL0159,Clínica Álvarez Central,B2C,Comodoro Rivadavia,Patagonia,2019-08-24
+CL0160,Servicios Castro del Norte,B2B,Córdoba,Centro,2021-01-19
+CL0161,Estudio Martínez Andina S.R.L.,Premium,Quilmes,AMBA,2021-01-24
+CL0162,Comercial Martínez Unida S.A.,B2B,Jujuy,NOA,2021-08-23
+CL0163,Metalúrgica Romero S.R.L.,B2B,Lanús,AMBA,2022-07-25
+CL0164,Constructora González S.A.,B2B,Comodoro Rivadavia,Patagonia,2019-03-18
+CL0165,Servicios Medina & Asociados,Premium,Quilmes,AMBA,2021-03-06
+CL0166,Consultora Herrera S.R.L.,B2B,Río Cuarto,Centro,2021-09-29
+CL0167,Comercial Sánchez Andina S.R.L.,Premium,Santa Fe,Centro,2021-06-29
+CL0168,Comercial Medina Central,B2B,San Luis,Cuyo,2019-05-05
+CL0169,Clínica López Unida S.A.,B2C,La Plata,AMBA,2022-08-07
+CL0170,Comercial Romero & Asociados,B2B,Tucumán,NOA,2022-03-02
+CL0171,Servicios Romero Central,B2B,Lanús,AMBA,2019-10-30
+CL0172,Consultora González del Norte,Premium,Oberá,NEA,2020-05-28
+CL0173,Grupo González S.A.,B2C,Resistencia,NEA,2021-01-03
+CL0174,Grupo Pérez del Plata S.R.L.,B2C,Corrientes,NEA,2019-04-18
+CL0175,Constructora Molina Andina S.R.L.,B2B,Quilmes,AMBA,2021-01-11
+CL0176,Servicios Rodríguez del Norte,B2B,Córdoba,Centro,2020-09-09
+CL0177,Clínica Castro Patagónica S.A.,Premium,Córdoba,Centro,2022-11-06
+CL0178,Constructora Morales e Hijos,Premium,Quilmes,AMBA,2019-10-31
+CL0179,Metalúrgica Medina Central,B2B,Mar del Plata,AMBA,2021-02-19
+CL0180,Estudio Herrera S.R.L.,B2B,San Rafael,Cuyo,2022-12-08
+CL0181,Servicios Herrera Andina S.R.L.,B2B,Lanús,AMBA,2020-04-12
+CL0182,Constructora Morales Patagónica S.A.,B2B,Paraná,Centro,2020-10-02
+CL0183,Clínica López S.R.L.,B2C,Jujuy,NOA,2019-06-24
+CL0184,Comercial González del Norte,B2B,Buenos Aires,AMBA,2019-05-03
+CL0185,Constructora Herrera Central,B2B,Río Cuarto,Centro,2022-09-24
+CL0186,Grupo Álvarez e Hijos,B2C,Villa Mercedes,Cuyo,2020-10-01
+CL0187,Consultora Molina Unida S.A.,B2B,Lanús,AMBA,2019-08-10
+CL0188,Distribuidora Romero Patagónica S.A.,B2B,Lanús,AMBA,2022-02-22
+CL0189,Estudio García e Hijos,B2B,San Rafael,Cuyo,2022-09-09
+CL0190,Distribuidora Álvarez Central,Premium,Comodoro Rivadavia,Patagonia,2020-12-19
+CL0191,Inversiones López & Asociados,B2B,La Plata,AMBA,2022-07-20
+CL0192,Servicios Castro Patagónica S.A.,B2C,Mendoza,Cuyo,2021-07-18
+CL0193,Comercial López S.A.,B2B,Mar del Plata,AMBA,2019-11-15
+CL0194,Constructora Torres Andina S.R.L.,Premium,Lanús,AMBA,2022-09-17
+CL0195,Distribuidora Sánchez del Norte,B2B,Río Cuarto,Centro,2019-08-22
+CL0196,Metalúrgica Molina del Norte,B2B,Buenos Aires,AMBA,2022-09-28
+CL0197,Metalúrgica Rodríguez S.A.,B2B,La Plata,AMBA,2020-02-23
+CL0198,Distribuidora Álvarez Central,B2C,La Plata,AMBA,2019-09-03
+CL0199,Inversiones Medina Unida S.A.,Premium,Quilmes,AMBA,2021-10-21
+CL0200,Grupo Herrera S.A.,Premium,Santa Fe,Centro,2021-07-30
+CL0201,Metalúrgica Castro Patagónica S.A.,B2B,San Luis,Cuyo,2020-08-15
+CL0202,Consultora Díaz Central,B2C,Buenos Aires,AMBA,2019-06-30
+CL0203,Metalúrgica Castro del Norte,B2B,Córdoba,Centro,2019-06-11
+CL0204,Servicios Morales & Asociados,B2B,Mar del Plata,AMBA,2019-06-06
+CL0205,Servicios Ruiz Central,B2B,Córdoba,Centro,2022-08-14
+CL0206,Distribuidora Sánchez & Asociados,B2B,Corrientes,NEA,2022-05-18
+CL0207,Clínica Díaz e Hijos,Premium,Buenos Aires,AMBA,2022-04-01
+CL0208,Metalúrgica Morales Central,B2B,Río Cuarto,Centro,2019-11-06
+CL0209,Distribuidora Torres e Hijos,B2B,Paraná,Centro,2019-04-26
+CL0210,Clínica Rodríguez S.A.,B2B,Buenos Aires,AMBA,2021-01-25
+CL0211,Constructora Ortega Patagónica S.A.,B2B,Neuquén,Patagonia,2021-08-05
+CL0212,Metalúrgica Sánchez Central,B2B,Córdoba,Centro,2022-05-24
+CL0213,Clínica Martínez Central,B2C,Rosario,Centro,2019-06-22
+CL0214,Clínica Díaz del Norte,Premium,Rosario,Centro,2021-12-06
+CL0215,Distribuidora Castro Patagónica S.A.,B2B,Santa Fe,Centro,2020-11-23
+CL0216,Comercial López Central,B2C,Tucumán,NOA,2019-07-13
+CL0217,Metalúrgica González Central,B2B,Paraná,Centro,2019-06-16
+CL0218,Distribuidora Castro & Asociados,B2C,Rosario,Centro,2022-05-03
+CL0219,Inversiones Morales & Asociados,B2B,Tucumán,NOA,2022-10-04
+CL0220,Inversiones Ortega Central,B2B,Catamarca,NOA,2019-02-07
+CL0221,Comercial Molina Unida S.A.,B2C,La Plata,AMBA,2020-04-08
+CL0222,Constructora Ortega del Norte,B2B,San Juan,Cuyo,2021-12-14
+CL0223,Metalúrgica González e Hijos,B2C,Mar del Plata,AMBA,2021-02-10
+CL0224,Metalúrgica Pérez Andina S.R.L.,B2C,La Plata,AMBA,2019-03-31
+CL0225,Metalúrgica Álvarez Andina S.R.L.,B2C,Rosario,Centro,2020-04-24
+CL0226,Clínica Sánchez Central,B2C,Santa Fe,Centro,2022-10-21
+CL0227,Distribuidora Castro del Norte,B2B,Villa Mercedes,Cuyo,2021-12-16
+CL0228,Metalúrgica González del Plata S.R.L.,B2C,Rosario,Centro,2019-04-17
+CL0229,Constructora Ortega S.R.L.,B2B,Jujuy,NOA,2020-08-06
+CL0230,Estudio González Patagónica S.A.,B2B,La Plata,AMBA,2019-07-07
+CL0231,Comercial García Patagónica S.A.,B2C,San Juan,Cuyo,2019-04-20
+CL0232,Constructora Ruiz Unida S.A.,B2B,Mar del Plata,AMBA,2019-02-27
+CL0233,Comercial González & Asociados,B2C,Buenos Aires,AMBA,2019-03-20
+CL0234,Consultora Molina Andina S.R.L.,B2B,Quilmes,AMBA,2022-06-14
+CL0235,Servicios González del Norte,Premium,Buenos Aires,AMBA,2022-05-31
+CL0236,Servicios Álvarez S.R.L.,B2C,Córdoba,Centro,2019-04-08
+CL0237,Constructora Molina e Hijos,B2B,Lanús,AMBA,2022-01-02
+CL0238,Consultora Álvarez Patagónica S.A.,B2B,Lanús,AMBA,2019-01-04
+CL0239,Consultora López del Norte,B2B,Rosario,Centro,2021-01-08
+CL0240,Estudio Medina S.A.,B2B,Lanús,AMBA,2021-03-10
+CL0241,Comercial Torres S.A.,B2B,Neuquén,Patagonia,2021-01-01
+CL0242,Constructora Morales & Asociados,B2B,Posadas,NEA,2019-04-01
+CL0243,Consultora Díaz Andina S.R.L.,B2C,Mar del Plata,AMBA,2022-07-17
+CL0244,Clínica Rodríguez del Plata S.R.L.,Premium,La Plata,AMBA,2020-02-17
+CL0245,Comercial Álvarez del Norte,B2C,La Plata,AMBA,2021-03-26
+CL0246,Grupo Sánchez del Plata S.R.L.,B2B,San Rafael,Cuyo,2021-01-01
+CL0247,Comercial Torres S.R.L.,B2C,Neuquén,Patagonia,2021-01-23
+CL0248,Inversiones Morales & Asociados,B2C,Paraná,Centro,2021-10-13
+CL0249,Estudio Torres S.R.L.,B2C,Jujuy,NOA,2021-05-19
+CL0250,Consultora Medina del Plata S.R.L.,B2C,Lanús,AMBA,2020-10-19
+CL0251,Distribuidora Díaz e Hijos,B2B,Mar del Plata,AMBA,2021-05-22
+CL0252,Grupo Ruiz e Hijos,B2B,Quilmes,AMBA,2021-06-09
+CL0253,Inversiones Ruiz del Norte,Premium,Buenos Aires,AMBA,2022-10-23
+CL0254,Metalúrgica Díaz S.A.,Premium,Buenos Aires,AMBA,2019-09-16
+CL0255,Metalúrgica Rodríguez e Hijos,B2B,Mar del Plata,AMBA,2019-11-11
+CL0256,Constructora González del Norte,B2B,Jujuy,NOA,2021-01-21
+CL0257,Constructora García & Asociados,B2B,Mar del Plata,AMBA,2021-10-19
+CL0258,Distribuidora Díaz Unida S.A.,Premium,Río Cuarto,Centro,2022-06-07
+CL0259,Consultora López Andina S.R.L.,B2B,Quilmes,AMBA,2019-12-20
+CL0260,Comercial Ruiz S.R.L.,B2C,Ushuaia,Patagonia,2022-01-31
+CL0261,Consultora Ruiz del Norte,B2C,Santa Fe,Centro,2020-04-04
+CL0262,Servicios Molina S.A.,B2C,La Plata,AMBA,2021-01-09
+CL0263,Estudio González e Hijos,B2B,Santa Fe,Centro,2019-06-26
+CL0264,Clínica Ortega Patagónica S.A.,B2C,Quilmes,AMBA,2021-04-18
+CL0265,Comercial López Andina S.R.L.,B2B,Neuquén,Patagonia,2021-08-12
+CL0266,Estudio Pérez & Asociados,B2B,Jujuy,NOA,2021-06-05
+CL0267,Estudio González del Plata S.R.L.,B2C,Córdoba,Centro,2019-12-04
+CL0268,Estudio Álvarez S.R.L.,B2B,La Plata,AMBA,2020-05-28
+CL0269,Distribuidora Medina S.R.L.,B2B,Lanús,AMBA,2021-10-26
+CL0270,Consultora Pérez e Hijos,B2C,Catamarca,NOA,2022-05-24
+CL0271,Grupo López S.A.,Premium,Lanús,AMBA,2022-08-06
+CL0272,Metalúrgica Herrera e Hijos,B2C,Posadas,NEA,2022-08-01
+CL0273,Distribuidora Molina Unida S.A.,B2B,Lanús,AMBA,2022-11-03
+CL0274,Grupo Pérez Andina S.R.L.,Premium,Paraná,Centro,2021-05-01
+CL0275,Consultora Morales Central,B2B,Rosario,Centro,2020-12-08
+CL0276,Estudio Medina S.R.L.,B2C,San Juan,Cuyo,2020-10-15
+CL0277,Servicios González S.R.L.,B2B,Buenos Aires,AMBA,2019-04-14
+CL0278,Inversiones Romero & Asociados,B2C,Quilmes,AMBA,2020-11-01
+CL0279,Consultora Molina del Norte,B2B,San Luis,Cuyo,2021-08-14
+CL0280,Constructora Castro del Norte,B2B,Santa Fe,Centro,2021-07-25
+CL0281,Grupo Rodríguez del Plata S.R.L.,B2B,San Juan,Cuyo,2021-10-10
+CL0282,Grupo Martínez Patagónica S.A.,B2B,Paraná,Centro,2019-10-02
+CL0283,Comercial Rodríguez Patagónica S.A.,B2C,Comodoro Rivadavia,Patagonia,2019-04-15
+CL0284,Distribuidora López Patagónica S.A.,B2B,Rosario,Centro,2021-10-29
+CL0285,Metalúrgica Martínez & Asociados,B2B,Río Cuarto,Centro,2019-07-18
+CL0286,Comercial González Unida S.A.,B2B,Mar del Plata,AMBA,2022-05-18
+CL0287,Grupo González Central,Premium,Río Cuarto,Centro,2021-08-28
+CL0288,Estudio González Central,B2B,Rosario,Centro,2022-06-09
+CL0289,Distribuidora Morales del Norte,B2C,Quilmes,AMBA,2021-11-09
+CL0290,Grupo Ruiz Central,B2B,Río Cuarto,Centro,2022-10-11
+CL0291,Grupo Molina del Plata S.R.L.,B2B,Quilmes,AMBA,2022-09-04
+CL0292,Grupo Molina & Asociados,B2C,Oberá,NEA,2021-12-09
+CL0293,Inversiones González Unida S.A.,B2C,Catamarca,NOA,2019-03-06
+CL0294,Clínica Morales Patagónica S.A.,B2B,Córdoba,Centro,2019-11-07
+CL0295,Metalúrgica Molina S.A.,B2B,Rosario,Centro,2022-12-16
+CL0296,Clínica Ortega Patagónica S.A.,B2B,La Plata,AMBA,2020-10-04
+CL0297,Comercial Medina Central,B2C,Villa Mercedes,Cuyo,2022-10-16
+CL0298,Servicios Romero del Plata S.R.L.,B2C,Posadas,NEA,2022-02-16
+CL0299,Servicios Molina Central,B2C,Mar del Plata,AMBA,2021-09-09
+CL0300,Metalúrgica Medina Patagónica S.A.,B2B,Mar del Plata,AMBA,2021-03-19
+CL0301,Distribuidora López Central,B2B,Corrientes,NEA,2021-06-24
+CL0302,Estudio Torres del Norte,B2B,Santiago del Estero,NOA,2022-11-26
+CL0303,Metalúrgica Romero Unida S.A.,B2B,Buenos Aires,AMBA,2019-04-14
+CL0304,Servicios Rodríguez S.R.L.,B2B,Catamarca,NOA,2021-04-26
+CL0305,Consultora García del Norte,Premium,Quilmes,AMBA,2019-11-20
+CL0306,Servicios Álvarez Central,B2B,Paraná,Centro,2020-08-07
+CL0307,Servicios Medina S.A.,B2C,Tucumán,NOA,2019-12-25
+CL0308,Grupo Castro Andina S.R.L.,B2C,Rosario,Centro,2020-01-17
+CL0309,Grupo Álvarez e Hijos,B2C,San Luis,Cuyo,2022-05-19
+CL0310,Estudio Ortega Andina S.R.L.,B2B,Mar del Plata,AMBA,2019-10-02
+CL0311,Constructora Morales & Asociados,B2B,Ushuaia,Patagonia,2021-07-28
+CL0312,Comercial Álvarez e Hijos,Premium,Salta,NOA,2022-10-13
+CL0313,Inversiones Herrera del Norte,B2C,Corrientes,NEA,2020-11-02
+CL0314,Consultora Molina Central,Premium,Buenos Aires,AMBA,2020-05-23
+CL0315,Distribuidora Morales del Plata S.R.L.,B2B,Quilmes,AMBA,2022-04-07
+CL0316,Comercial Romero S.A.,B2B,Tucumán,NOA,2022-09-29
+CL0317,Estudio Álvarez S.R.L.,Premium,Mar del Plata,AMBA,2022-08-01
+CL0318,Servicios Romero & Asociados,B2B,Comodoro Rivadavia,Patagonia,2021-09-06
+CL0319,Estudio Molina del Norte,B2B,Lanús,AMBA,2022-09-22
+CL0320,Metalúrgica López del Norte,B2C,Bariloche,Patagonia,2021-07-03
+CL0321,Metalúrgica Martínez S.A.,Premium,Santa Fe,Centro,2022-01-26
+CL0322,Consultora Pérez Central,B2B,Bariloche,Patagonia,2021-12-01
+CL0323,Clínica López del Norte,B2C,Rosario,Centro,2021-07-01
+CL0324,Inversiones Díaz e Hijos,B2B,Formosa,NEA,2019-04-29
+CL0325,Inversiones Torres S.A.,B2C,Santa Fe,Centro,2020-03-22
+CL0326,Constructora Medina S.A.,B2B,Córdoba,Centro,2019-05-22
+CL0327,Inversiones Pérez & Asociados,Premium,Villa Mercedes,Cuyo,2022-08-06
+CL0328,Inversiones Díaz Patagónica S.A.,B2B,Villa Mercedes,Cuyo,2021-02-08
+CL0329,Comercial Martínez & Asociados,Premium,Lanús,AMBA,2022-01-05
+CL0330,Servicios García S.A.,B2B,La Plata,AMBA,2020-09-03
+CL0331,Inversiones Romero Unida S.A.,B2B,Río Cuarto,Centro,2021-08-01
+CL0332,Constructora Rodríguez Patagónica S.A.,Premium,Mar del Plata,AMBA,2022-06-13
+CL0333,Constructora Martínez e Hijos,B2B,Resistencia,NEA,2019-03-10
+CL0334,Grupo Castro Andina S.R.L.,B2B,Córdoba,Centro,2020-04-24
+CL0335,Distribuidora Romero e Hijos,B2B,Córdoba,Centro,2020-10-15
+CL0336,Consultora Ortega Unida S.A.,B2B,Santa Fe,Centro,2021-04-26
+CL0337,Metalúrgica Pérez Patagónica S.A.,B2B,Buenos Aires,AMBA,2022-02-12
+CL0338,Inversiones Ortega Central,B2C,Santa Fe,Centro,2022-11-27
+CL0339,Consultora Medina Andina S.R.L.,B2B,Rosario,Centro,2020-05-08
+CL0340,Consultora Díaz S.A.,B2C,Comodoro Rivadavia,Patagonia,2022-02-25
+CL0341,Consultora Castro Unida S.A.,B2B,Paraná,Centro,2020-06-06
+CL0342,Comercial López del Norte,B2C,Buenos Aires,AMBA,2020-01-26
+CL0343,Metalúrgica Rodríguez S.R.L.,B2B,Quilmes,AMBA,2020-01-21
+CL0344,Estudio Sánchez Andina S.R.L.,B2C,Oberá,NEA,2020-03-03
+CL0345,Grupo Sánchez Unida S.A.,B2B,Comodoro Rivadavia,Patagonia,2019-08-29
+CL0346,Metalúrgica Sánchez Patagónica S.A.,B2C,Formosa,NEA,2020-05-05
+CL0347,Estudio Ruiz del Plata S.R.L.,B2B,Santa Fe,Centro,2020-06-19
+CL0348,Clínica Morales Unida S.A.,B2B,Quilmes,AMBA,2021-01-29
+CL0349,Servicios González S.A.,B2B,Buenos Aires,AMBA,2020-06-18
+CL0350,Inversiones Álvarez & Asociados,B2B,Río Cuarto,Centro,2020-02-06
+CL0351,Servicios Molina del Norte,B2B,Quilmes,AMBA,2022-09-02
+CL0352,Clínica Molina Andina S.R.L.,B2B,San Luis,Cuyo,2019-12-11
+CL0353,Estudio Molina & Asociados,B2B,Jujuy,NOA,2022-01-15
+CL0354,Constructora Rodríguez S.A.,B2B,Mendoza,Cuyo,2021-04-24
+CL0355,Consultora García Unida S.A.,Premium,La Plata,AMBA,2021-11-01
+CL0356,Metalúrgica Molina Andina S.R.L.,B2B,Córdoba,Centro,2019-02-02
+CL0357,Grupo Ortega del Plata S.R.L.,B2B,Lanús,AMBA,2022-01-02
+CL0358,Inversiones Pérez S.R.L.,B2B,Mendoza,Cuyo,2019-07-17
+CL0359,Estudio Torres Central,B2B,Rosario,Centro,2020-07-01
+CL0360,Inversiones Díaz e Hijos,B2B,Resistencia,NEA,2020-05-13
+CL0361,Constructora Rodríguez S.R.L.,B2B,San Juan,Cuyo,2021-04-10
+CL0362,Grupo Pérez S.R.L.,B2B,Lanús,AMBA,2021-10-20
+CL0363,Constructora Ortega S.A.,B2B,Comodoro Rivadavia,Patagonia,2020-04-15
+CL0364,Grupo López del Plata S.R.L.,B2B,Lanús,AMBA,2022-01-17
+CL0365,Comercial García Unida S.A.,B2B,Córdoba,Centro,2022-04-17
+CL0366,Distribuidora Pérez e Hijos,B2C,Quilmes,AMBA,2020-05-07
+CL0367,Estudio Morales Patagónica S.A.,B2B,Paraná,Centro,2019-10-14
+CL0368,Comercial Rodríguez S.R.L.,B2B,Resistencia,NEA,2021-06-14
+CL0369,Metalúrgica Castro Central,B2B,Buenos Aires,AMBA,2019-03-02
+CL0370,Comercial Medina Patagónica S.A.,B2B,Santiago del Estero,NOA,2021-06-03
+CL0371,Constructora Álvarez Unida S.A.,B2B,Lanús,AMBA,2022-12-31
+CL0372,Consultora Castro Central,Premium,Mar del Plata,AMBA,2021-01-08
+CL0373,Clínica Ruiz del Plata S.R.L.,B2C,Buenos Aires,AMBA,2019-07-29
+CL0374,Estudio Medina del Norte,B2B,La Plata,AMBA,2021-04-15
+CL0375,Constructora Morales Patagónica S.A.,B2B,Buenos Aires,AMBA,2019-01-26
+CL0376,Estudio Romero e Hijos,B2C,Quilmes,AMBA,2021-12-03
+CL0377,Distribuidora Álvarez del Plata S.R.L.,Premium,Quilmes,AMBA,2021-10-06
+CL0378,Inversiones Álvarez Andina S.R.L.,B2B,La Plata,AMBA,2019-06-07
+CL0379,Clínica Sánchez Andina S.R.L.,B2B,La Plata,AMBA,2019-08-08
+CL0380,Comercial Castro Central,B2C,Buenos Aires,AMBA,2021-06-20
+CL0381,Comercial Sánchez Andina S.R.L.,Premium,Lanús,AMBA,2020-10-05
+CL0382,Distribuidora Molina e Hijos,B2C,Quilmes,AMBA,2020-05-11
+CL0383,Inversiones Ruiz S.R.L.,B2C,Mar del Plata,AMBA,2022-02-28
+CL0384,Estudio García Andina S.R.L.,Premium,Lanús,AMBA,2022-12-21
+CL0385,Constructora Herrera Andina S.R.L.,B2C,Mar del Plata,AMBA,2019-10-13
+CL0386,Consultora Herrera Patagónica S.A.,B2B,Salta,NOA,2019-06-01
+CL0387,Inversiones Medina del Norte,B2B,Río Cuarto,Centro,2022-11-17
+CL0388,Comercial Medina e Hijos,B2C,Córdoba,Centro,2022-07-30
+CL0389,Comercial Pérez e Hijos,B2C,Neuquén,Patagonia,2019-04-01
+CL0390,Comercial Herrera S.R.L.,B2C,Paraná,Centro,2019-01-22
+CL0391,Estudio Medina e Hijos,B2B,La Plata,AMBA,2022-11-09
+CL0392,Clínica Ortega & Asociados,B2B,Paraná,Centro,2020-12-07
+CL0393,Inversiones López S.R.L.,B2B,Villa Mercedes,Cuyo,2019-10-18
+CL0394,Servicios Ortega Andina S.R.L.,B2B,Mar del Plata,AMBA,2020-12-14
+CL0395,Clínica Morales S.R.L.,B2C,Paraná,Centro,2020-09-06
+CL0396,Comercial Martínez & Asociados,Premium,Buenos Aires,AMBA,2020-05-14
+CL0397,Estudio Herrera Andina S.R.L.,B2B,Río Cuarto,Centro,2020-04-19
+CL0398,Inversiones Castro S.A.,B2B,Corrientes,NEA,2022-06-11
+CL0399,Inversiones García Unida S.A.,B2B,Ushuaia,Patagonia,2020-02-26
+CL0400,Estudio Pérez Central,B2B,Buenos Aires,AMBA,2020-10-29
+CL0401,Clínica Ortega Central,B2B,Buenos Aires,AMBA,2022-05-07
+CL0402,Comercial Ruiz Andina S.R.L.,B2B,Quilmes,AMBA,2022-06-18
+CL0403,Metalúrgica López & Asociados,B2C,Mar del Plata,AMBA,2020-10-03
+CL0404,Comercial González del Norte,Premium,Mar del Plata,AMBA,2021-03-06
+CL0405,Inversiones Pérez Andina S.R.L.,B2B,Rosario,Centro,2022-07-25
+CL0406,Clínica Álvarez & Asociados,B2B,Rosario,Centro,2020-01-19
+CL0407,Comercial García Andina S.R.L.,B2B,Quilmes,AMBA,2019-10-07
+CL0408,Estudio Molina Patagónica S.A.,B2C,Quilmes,AMBA,2022-11-03
+CL0409,Constructora García Unida S.A.,B2B,Paraná,Centro,2020-08-21
+CL0410,Consultora Díaz e Hijos,B2B,La Plata,AMBA,2021-10-11
+CL0411,Distribuidora Medina Central,B2B,Córdoba,Centro,2022-01-15
+CL0412,Clínica Medina Unida S.A.,B2C,Neuquén,Patagonia,2021-05-20
+CL0413,Grupo Díaz del Plata S.R.L.,B2B,La Plata,AMBA,2020-12-14
+CL0414,Constructora Romero Unida S.A.,B2B,Neuquén,Patagonia,2022-04-19
+CL0415,Consultora González Unida S.A.,B2C,Catamarca,NOA,2020-02-28
+CL0416,Distribuidora Medina & Asociados,B2B,Oberá,NEA,2020-10-24
+CL0417,Distribuidora Ortega S.R.L.,B2B,San Luis,Cuyo,2019-10-05
+CL0418,Distribuidora González & Asociados,B2C,Villa Mercedes,Cuyo,2020-05-26
+CL0419,Inversiones Molina & Asociados,B2C,Mar del Plata,AMBA,2022-03-28
+CL0420,Constructora López Patagónica S.A.,B2B,Santiago del Estero,NOA,2021-11-21
+CL0421,Clínica Morales e Hijos,B2B,Posadas,NEA,2019-01-06
+CL0422,Clínica Ruiz S.R.L.,B2C,Neuquén,Patagonia,2021-12-30
+CL0423,Clínica Torres Central,B2C,Quilmes,AMBA,2020-08-03
+CL0424,Clínica Morales S.A.,Premium,Lanús,AMBA,2019-04-05
+CL0425,Consultora Díaz Andina S.R.L.,Premium,Quilmes,AMBA,2019-01-02
+CL0426,Consultora Álvarez & Asociados,B2B,Villa Mercedes,Cuyo,2020-07-15
+CL0427,Comercial Pérez S.A.,B2B,Mar del Plata,AMBA,2021-03-22
+CL0428,Constructora Martínez S.A.,B2B,Salta,NOA,2020-03-13
+CL0429,Estudio Díaz S.A.,B2B,Rosario,Centro,2019-01-17
+CL0430,Inversiones González Andina S.R.L.,B2C,Tucumán,NOA,2019-05-26
+CL0431,Constructora Martínez Central,B2B,Buenos Aires,AMBA,2021-01-22
+CL0432,Consultora González S.R.L.,B2B,Bariloche,Patagonia,2021-12-22
+CL0433,Clínica Ruiz Unida S.A.,B2B,Río Cuarto,Centro,2022-07-10
+CL0434,Clínica Sánchez S.R.L.,B2C,Formosa,NEA,2019-07-25
+CL0435,Inversiones Ruiz Patagónica S.A.,B2B,Buenos Aires,AMBA,2020-10-06
+CL0436,Constructora Romero del Norte,B2B,Corrientes,NEA,2022-05-15
+CL0437,Grupo Álvarez Unida S.A.,B2B,Río Cuarto,Centro,2021-11-26
+CL0438,Distribuidora Rodríguez Unida S.A.,B2C,Rosario,Centro,2021-10-10
+CL0439,Metalúrgica López del Norte,B2B,La Plata,AMBA,2019-01-25
+CL0440,Metalúrgica Herrera Central,B2B,San Luis,Cuyo,2022-01-23
+CL0441,Constructora García e Hijos,B2C,Santiago del Estero,NOA,2019-05-19
+CL0442,Grupo Castro del Norte,Premium,La Plata,AMBA,2020-08-09
+CL0443,Inversiones Castro S.R.L.,B2C,Catamarca,NOA,2022-08-04
+CL0444,Constructora Álvarez S.R.L.,B2B,Río Cuarto,Centro,2021-11-13
+CL0445,Inversiones López del Plata S.R.L.,B2B,San Juan,Cuyo,2022-12-01
+CL0446,Constructora Herrera S.R.L.,Premium,Rosario,Centro,2021-07-17
+CL0447,Consultora Martínez S.A.,B2B,Córdoba,Centro,2022-12-20
+CL0448,Comercial Ortega del Norte,Premium,Buenos Aires,AMBA,2020-06-14
+CL0449,Distribuidora Martínez S.A.,B2B,La Plata,AMBA,2020-11-17
+CL0450,Distribuidora López Andina S.R.L.,B2B,Posadas,NEA,2021-07-21
+CL0451,Metalúrgica Pérez Central,B2B,Córdoba,Centro,2019-11-19
+CL0452,Constructora Romero del Norte,B2C,Buenos Aires,AMBA,2019-01-06
+CL0453,Clínica Ruiz Patagónica S.A.,B2B,Buenos Aires,AMBA,2019-11-04
+CL0454,Inversiones Romero Central,B2B,Buenos Aires,AMBA,2020-05-23
+CL0455,Constructora Ruiz S.R.L.,B2B,Santa Fe,Centro,2021-10-25
+CL0456,Estudio Rodríguez Patagónica S.A.,B2B,Tucumán,NOA,2019-05-22
+CL0457,Distribuidora Morales S.R.L.,B2C,Comodoro Rivadavia,Patagonia,2022-02-06
+CL0458,Metalúrgica Álvarez e Hijos,B2B,Santa Fe,Centro,2020-05-11
+CL0459,Servicios Medina Unida S.A.,B2C,Río Cuarto,Centro,2019-11-05
+CL0460,Estudio Ruiz S.A.,Premium,Quilmes,AMBA,2020-11-17
+CL0461,Distribuidora Martínez Unida S.A.,B2C,Quilmes,AMBA,2021-12-21
+CL0462,Grupo González del Plata S.R.L.,B2B,Villa Mercedes,Cuyo,2019-07-10
+CL0463,Estudio Herrera Central,B2C,La Plata,AMBA,2021-07-27
+CL0464,Estudio González Patagónica S.A.,B2B,Mendoza,Cuyo,2019-06-03
+CL0465,Consultora Romero del Plata S.R.L.,B2B,Córdoba,Centro,2020-06-18
+CL0466,Comercial Morales Andina S.R.L.,B2C,Ushuaia,Patagonia,2020-07-10
+CL0467,Metalúrgica Martínez & Asociados,Premium,La Plata,AMBA,2019-08-05
+CL0468,Constructora Medina Central,B2B,Quilmes,AMBA,2020-03-01
+CL0469,Constructora López & Asociados,B2B,Paraná,Centro,2022-11-06
+CL0470,Comercial González S.R.L.,Premium,Lanús,AMBA,2022-12-27
+CL0471,Grupo Álvarez del Plata S.R.L.,B2B,Mar del Plata,AMBA,2019-12-23
+CL0472,Estudio Medina Unida S.A.,B2C,Quilmes,AMBA,2019-07-13
+CL0473,Grupo Romero & Asociados,B2B,Rosario,Centro,2020-02-10
+CL0474,Constructora Torres S.R.L.,B2C,Comodoro Rivadavia,Patagonia,2019-02-14
+CL0475,Clínica González S.R.L.,B2C,San Juan,Cuyo,2020-11-10
+CL0476,Metalúrgica Herrera Patagónica S.A.,Premium,Quilmes,AMBA,2021-10-13
+CL0477,Servicios Pérez del Plata S.R.L.,Premium,Quilmes,AMBA,2020-07-27
+CL0478,Metalúrgica Romero del Plata S.R.L.,Premium,Rosario,Centro,2021-10-18
+CL0479,Constructora Torres Patagónica S.A.,B2B,Río Cuarto,Centro,2019-10-09
+CL0480,Estudio García Patagónica S.A.,B2B,Río Cuarto,Centro,2022-12-31
+CL0481,Comercial Ortega Central,B2C,Lanús,AMBA,2021-03-06
+CL0482,Servicios García del Plata S.R.L.,B2B,Buenos Aires,AMBA,2019-04-30
+CL0483,Metalúrgica Romero & Asociados,B2B,Formosa,NEA,2019-07-25
+CL0484,Grupo Romero e Hijos,B2B,La Plata,AMBA,2021-03-06
+CL0485,Metalúrgica Morales Central,Premium,La Plata,AMBA,2022-04-26
+CL0486,Metalúrgica González e Hijos,B2C,Mar del Plata,AMBA,2020-01-21
+CL0487,Consultora Molina S.A.,B2B,Ushuaia,Patagonia,2019-07-04
+CL0488,Estudio Molina S.A.,B2B,Lanús,AMBA,2020-11-10
+CL0489,Comercial Pérez Central,B2C,Bariloche,Patagonia,2019-05-02
+CL0490,Consultora Martínez del Norte,B2B,Lanús,AMBA,2021-01-17
+CL0491,Inversiones Martínez Central,B2C,San Luis,Cuyo,2020-09-10
+CL0492,Inversiones Molina Central,B2B,La Plata,AMBA,2019-12-23
+CL0493,Metalúrgica Ruiz Unida S.A.,B2C,Catamarca,NOA,2022-09-25
+CL0494,Distribuidora González & Asociados,B2B,Rosario,Centro,2019-01-04
+CL0495,Metalúrgica Rodríguez & Asociados,B2B,San Rafael,Cuyo,2022-05-18
+CL0496,Metalúrgica Martínez Andina S.R.L.,B2B,Lanús,AMBA,2019-10-16
+CL0497,Comercial Pérez S.R.L.,B2B,Buenos Aires,AMBA,2022-12-22
+CL0498,Distribuidora Sánchez Unida S.A.,B2B,Jujuy,NOA,2022-11-20
+CL0499,Grupo Rodríguez Patagónica S.A.,B2C,Mar del Plata,AMBA,2021-06-16
+CL0500,Clínica Castro Central,B2C,Salta,NOA,2022-01-23

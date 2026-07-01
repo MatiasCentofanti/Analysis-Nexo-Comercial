@@ -1,0 +1,16 @@
+﻿id_agente,nombre,zona,gerente,target_mensual,fecha_ingreso
+AG001,Lucía Fernández,AMBA,Carlos Méndez,280000,2021-03-01
+AG002,Martín Rodríguez,AMBA,Carlos Méndez,260000,2020-07-15
+AG003,Paula González,AMBA,Carlos Méndez,270000,2022-01-10
+AG004,Diego Martínez,AMBA,Carlos Méndez,250000,2021-09-01
+AG005,Valentina López,Centro,Ana Suárez,220000,2020-03-15
+AG006,Facundo Romero,Centro,Ana Suárez,230000,2022-06-01
+AG007,Florencia Díaz,Centro,Ana Suárez,210000,2021-11-01
+AG008,Ignacio Torres,NOA,Roberto Paz,190000,2020-01-15
+AG009,Camila Ruiz,NOA,Roberto Paz,185000,2023-02-01
+AG010,Sebastián Morales,NEA,Roberto Paz,180000,2022-08-01
+AG011,Natalia Vargas,Patagonia,Marcelo Ríos,195000,2021-05-15
+AG012,Juan Pablo Herrera,Patagonia,Marcelo Ríos,200000,2020-11-01
+AG013,Sofía Castro,Cuyo,Marcelo Ríos,205000,2022-03-15
+AG014,Lucas Peralta,Cuyo,Marcelo Ríos,195000,2023-01-10
+AG015,Marina Ibáñez,AMBA,Carlos Méndez,245000,2021-07-01
