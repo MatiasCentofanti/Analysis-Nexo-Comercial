@@ -129,3 +129,7 @@ Ver todas las instrucciones en [`guia_powerbi.md`](guia_powerbi.md)
 - MySQL 8.0 · MySQL Workbench
 - Power BI Desktop + Power BI Service
 - DAX (Data Analysis Expressions)
+
+## Enlaces
+
+- Dashboard interactivo (Power BI Service): https://app.powerbi.com/reportEmbed?reportId=13aabbbc-8eaf-4a67-9658-deb9febd38b3&autoAuth=true&ctid=e0a09e6c-a0b8-4459-a108-aba2c0ff8897
