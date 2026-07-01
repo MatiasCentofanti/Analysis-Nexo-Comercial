@@ -20,7 +20,7 @@ from sqlalchemy import create_engine, text
 
 # ── CONFIGURACIÓN — cambiar solo MYSQL_PASSWORD ────────────────────────────────
 MYSQL_USER     = "root"
-MYSQL_PASSWORD = "9E8bTAqY%bJV@5"   # <-- acá va tu contraseña de MySQL
+MYSQL_PASSWORD = ""   # <-- acá va tu contraseña de MySQL
 MYSQL_HOST     = "localhost"
 MYSQL_PORT     = 3306
 DB_NAME        = "nexo_comercial"
